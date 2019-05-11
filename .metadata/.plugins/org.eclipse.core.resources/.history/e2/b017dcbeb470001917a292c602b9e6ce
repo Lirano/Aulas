@@ -1,0 +1,16 @@
+package aula01;
+
+import java.util.Date;
+
+public class ProgramEnum {
+
+	public static void main(String[] args) {
+		// Aula 01 - Sobre Enumeração
+		
+		Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);
+				
+				System.out.println(order);
+
+	}
+
+}

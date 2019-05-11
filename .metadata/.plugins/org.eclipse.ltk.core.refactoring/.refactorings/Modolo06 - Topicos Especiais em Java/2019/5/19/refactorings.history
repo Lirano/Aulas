@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Modolo06 - Topicos Especiais em Java/src/aula02/Calendar.java&apos; to &apos;Program.java&apos;" description="Rename resource &apos;Calendar.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aula02/Calendar.java" name="Program.java" stamp="1557061090231" updateReferences="true"/>
+</session>
